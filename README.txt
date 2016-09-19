@@ -1,5 +1,5 @@
 #Coming soon page
-
+A simple coming soon page
 
 CREDITS:
 
